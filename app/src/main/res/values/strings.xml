@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NITHA AI</string>
+    <string name="accessibility_service_description">NITHA needs accessibility access to control your device (go back, home, recent apps, open settings, etc.)</string>
+</resources>
